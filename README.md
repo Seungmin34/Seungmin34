@@ -1,8 +1,5 @@
 ## Introduction
-
-## Career
-
-## Links
+I'm Seungmin Lee and I'm studying computer engineering at Yeongnam University.
 
 <!--
 **Seungmin34/Seungmin34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
